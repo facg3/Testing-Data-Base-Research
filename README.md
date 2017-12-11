@@ -16,7 +16,6 @@
 
 ## Not integration tests, not system tests. But fast, code-covering, automated unit tests. You have to isolate the unit from other objects to make a unit test.
 
-# Testing-Data-Base-Research
 
 ## What JavaScript / Node.js tools and freamworks are available for testing a database?  
 ### Tools
